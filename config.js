@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Cậu đây rồi ^^ ',
     introDesc: Này, hôm nay lại nghe lời tớ mà vào đây à
-    Mọi hôm cậu có bao giờ nghe lời tớ đâu
+    Mọi hôm cậu có bao giờ nghe lời tớ đâu?
     Hay là cậu ....
     Này, tớ muốn hỏi cậu và nói với cậu là`,
     btnIntro: 'Ấn vào đây , tớ nói nè!!',
